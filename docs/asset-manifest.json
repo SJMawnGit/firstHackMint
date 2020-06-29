@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/firstHackMint/static/css/main.75df9f48.chunk.css",
+    "main.js": "/firstHackMint/static/js/main.a6f57e64.chunk.js",
+    "main.js.map": "/firstHackMint/static/js/main.a6f57e64.chunk.js.map",
+    "runtime-main.js": "/firstHackMint/static/js/runtime-main.aa5d7751.js",
+    "runtime-main.js.map": "/firstHackMint/static/js/runtime-main.aa5d7751.js.map",
+    "static/js/2.8e412f95.chunk.js": "/firstHackMint/static/js/2.8e412f95.chunk.js",
+    "static/js/2.8e412f95.chunk.js.map": "/firstHackMint/static/js/2.8e412f95.chunk.js.map",
+    "index.html": "/firstHackMint/index.html",
+    "precache-manifest.e1d78d8cdd995e02c45e8a02d563e3e6.js": "/firstHackMint/precache-manifest.e1d78d8cdd995e02c45e8a02d563e3e6.js",
+    "service-worker.js": "/firstHackMint/service-worker.js",
+    "static/css/main.75df9f48.chunk.css.map": "/firstHackMint/static/css/main.75df9f48.chunk.css.map",
+    "static/js/2.8e412f95.chunk.js.LICENSE.txt": "/firstHackMint/static/js/2.8e412f95.chunk.js.LICENSE.txt",
+    "static/media/mintbean.png": "/firstHackMint/static/media/mintbean.cf18b629.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa5d7751.js",
+    "static/js/2.8e412f95.chunk.js",
+    "static/css/main.75df9f48.chunk.css",
+    "static/js/main.a6f57e64.chunk.js"
+  ]
+}
