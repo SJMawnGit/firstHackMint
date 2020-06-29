@@ -35,8 +35,8 @@ function Hit(props) {
   return (
     <div className = "single-hit">
       <h3 className="hit-title">{props.hit.Name}</h3>
+      <h4>Rank: {props.hit.Rank}</h4>
       <div>global sales: {props.hit.Global_Sales*1000000}</div>
-      <div>Rank: {props.hit.Rank}</div>
       <div>Platform:{props.hit.Platform}</div>
       <div>Year: {props.hit.Year}</div>
     </div>

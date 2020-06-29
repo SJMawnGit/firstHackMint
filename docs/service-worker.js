@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/firstHackMint/precache-manifest.e1d78d8cdd995e02c45e8a02d563e3e6.js"
+  "/firstHackMint/precache-manifest.c4759436b47a78e77b40394e7344a479.js"
 );
 
 self.addEventListener('message', (event) => {
