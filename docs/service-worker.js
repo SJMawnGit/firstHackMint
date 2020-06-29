@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SJMawnGit.github.io/mintFirstHack/precache-manifest.671516df91af9218a7603fcf3122fdf1.js"
+  "/SJMawnGit.github.io/mintFirstHack/precache-manifest.4f20f3ea2d8fc24a577e53cebfb85998.js"
 );
 
 self.addEventListener('message', (event) => {
