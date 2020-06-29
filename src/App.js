@@ -19,7 +19,7 @@ const searchClient = algoliasearch('OEELBRLG33','8e0eb8dd3c6e31c8b34141178ad4f89
 function App() {
   return (
     <div className="App">
-      <h1>video game sales tracker      </h1>
+      <h1>video game sales tracker</h1>
       <InstantSearch indexName = "vgSales" searchClient = {searchClient} hitsPerPage = {8}>
         <div>
           <SearchBox />
@@ -27,25 +27,18 @@ function App() {
           <Pagination/>
         </div>
       </InstantSearch>
-        <img src={logo} className="App-logo" alt="logo" />
-        <h2>HAPPY HACKING!</h2>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
     </div>
   );
 }
 function Hit(props) {
   console.log(props.hit.Name)
   return (
-    <div>
-      <div className="hit-title">{props.hit.Name}</div>
-      <div>{props.hit.Global_Sales*1000000}</div>
+    <div className = "single-hit">
+      <h3 className="hit-title">{props.hit.Name}</h3>
+      <div>global sales: {props.hit.Global_Sales*1000000}</div>
+      <div>Rank: {props.hit.Rank}</div>
+      <div>Platform:{props.hit.Platform}</div>
+      <div>Year: {props.hit.Year}</div>
     </div>
   );
 
