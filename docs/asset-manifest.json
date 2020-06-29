@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SJMawnGit.github.io/mintFirstHack/static/css/main.75df9f48.chunk.css",
+    "main.js": "/SJMawnGit.github.io/mintFirstHack/static/js/main.bae4f5bb.chunk.js",
+    "main.js.map": "/SJMawnGit.github.io/mintFirstHack/static/js/main.bae4f5bb.chunk.js.map",
+    "runtime-main.js": "/SJMawnGit.github.io/mintFirstHack/static/js/runtime-main.ef49effd.js",
+    "runtime-main.js.map": "/SJMawnGit.github.io/mintFirstHack/static/js/runtime-main.ef49effd.js.map",
+    "static/js/2.7da75230.chunk.js": "/SJMawnGit.github.io/mintFirstHack/static/js/2.7da75230.chunk.js",
+    "static/js/2.7da75230.chunk.js.map": "/SJMawnGit.github.io/mintFirstHack/static/js/2.7da75230.chunk.js.map",
+    "index.html": "/SJMawnGit.github.io/mintFirstHack/index.html",
+    "precache-manifest.671516df91af9218a7603fcf3122fdf1.js": "/SJMawnGit.github.io/mintFirstHack/precache-manifest.671516df91af9218a7603fcf3122fdf1.js",
+    "service-worker.js": "/SJMawnGit.github.io/mintFirstHack/service-worker.js",
+    "static/css/main.75df9f48.chunk.css.map": "/SJMawnGit.github.io/mintFirstHack/static/css/main.75df9f48.chunk.css.map",
+    "static/js/2.7da75230.chunk.js.LICENSE.txt": "/SJMawnGit.github.io/mintFirstHack/static/js/2.7da75230.chunk.js.LICENSE.txt",
+    "static/media/mintbean.png": "/SJMawnGit.github.io/mintFirstHack/static/media/mintbean.cf18b629.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef49effd.js",
+    "static/js/2.7da75230.chunk.js",
+    "static/css/main.75df9f48.chunk.css",
+    "static/js/main.bae4f5bb.chunk.js"
+  ]
+}
